@@ -13,7 +13,7 @@ import Lchart from './components/LineChart';
 function App() {
   return (
     <div className="App">
-      <p>HELLO</p>
+      
       <Header/>
       <Lchart/>
       <Examchart/>
